@@ -182,9 +182,3 @@
     border-right-color: var(--border);
   }
 }
-
-.card{
-  border: 2px solid firebrick;
-  padding: 5px;
-  margin: 5px;
-}
