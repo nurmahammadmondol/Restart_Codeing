@@ -11,7 +11,12 @@ I am focusing on JavaScript, React, and full-stack development.
 ### 02. Simple React REST Countries
 - Fetch API usage
 - React components & state
--
+
+### 03.  Local storage
+-ফেইক ডাটা কিভাবে fetch
+-ES৬ এর মডিউল (import, export)
+
+
 -  ## ⚙️ Technologies Used
 - HTML
 - CSS / Tailwind CSS
