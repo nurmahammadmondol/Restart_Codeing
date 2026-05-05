@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "AquaPure Glass Bottle",
+    "brand": "PureLife",
+    "price": 12.99,
+    "capacity": "750ml",
+    "material": "Glass",
+    "color": "Transparent",
+    "inStock": true,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b"
+  },
+  {
+    "id": 2,
+    "name": "EcoSteel Water Bottle",
+    "brand": "EcoWave",
+    "price": 18.5,
+    "capacity": "1L",
+    "material": "Stainless Steel",
+    "color": "Silver",
+    "inStock": true,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+  },
+  {
+    "id": 3,
+    "name": "HydroBoost Sports Bottle",
+    "brand": "FitLife",
+    "price": 9.99,
+    "capacity": "600ml",
+    "material": "Plastic",
+    "color": "Blue",
+    "inStock": true,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1590080877777-7e9b0b5d8d1c"
+  },
+  {
+    "id": 4,
+    "name": "ThermoLock Bottle",
+    "brand": "Hot&Cold",
+    "price": 22.0,
+    "capacity": "1.2L",
+    "material": "Insulated Steel",
+    "color": "Black",
+    "inStock": false,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1616627451000-2c1a9c5c5b8f"
+  },
+  {
+    "id": 5,
+    "name": "Mini Travel Bottle",
+    "brand": "GoPack",
+    "price": 7.5,
+    "capacity": "500ml",
+    "material": "Plastic",
+    "color": "Red",
+    "inStock": true,
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1526401485004-2fa806b2f88b"
+  },
+  {
+    "id": 6,
+    "name": "Crystal Clear Bottle",
+    "brand": "AquaFresh",
+    "price": 14.25,
+    "capacity": "800ml",
+    "material": "Glass",
+    "color": "Clear",
+    "inStock": true,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1544006659-f0b21884ce1d"
+  },
+  {
+    "id": 7,
+    "name": "GymPro Bottle",
+    "brand": "MuscleMax",
+    "price": 11.75,
+    "capacity": "700ml",
+    "material": "BPA-Free Plastic",
+    "color": "Green",
+    "inStock": true,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1599058917765-a780eda07a3e"
+  },
+  {
+    "id": 8,
+    "name": "Luxury Copper Bottle",
+    "brand": "RoyalDrink",
+    "price": 25.0,
+    "capacity": "1L",
+    "material": "Copper",
+    "color": "Copper",
+    "inStock": false,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db"
+  },
+  {
+    "id": 9,
+    "name": "Kids Fun Bottle",
+    "brand": "HappyKids",
+    "price": 8.99,
+    "capacity": "450ml",
+    "material": "Plastic",
+    "color": "Yellow",
+    "inStock": true,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6"
+  },
+  {
+    "id": 10,
+    "name": "Smart Temperature Bottle",
+    "brand": "TechSip",
+    "price": 29.99,
+    "capacity": "900ml",
+    "material": "Smart Steel",
+    "color": "White",
+    "inStock": true,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1585238342028-4c7f7a1c4a9f"
+  }
+]

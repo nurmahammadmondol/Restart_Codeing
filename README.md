@@ -12,10 +12,13 @@ I am focusing on JavaScript, React, and full-stack development.
 - Fetch API usage
 - React components & state
 
-### 03.  Local storage
+<<<<<<< HEAD
+### 03. Data Storage Interation / Local storage
 -ফেইক ডাটা কিভাবে fetch
 -ES৬ এর মডিউল (import, export)
-
+- Fetch API usage
+- React components & state
+- Data store local storage
 
 -  ## ⚙️ Technologies Used
 - HTML
