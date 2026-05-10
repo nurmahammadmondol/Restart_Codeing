@@ -2,7 +2,7 @@
 
 export default function Bottle({bottle, handleAddToCart, handleBuyNow}) {
 
-  const {name , price, stock, ratings, img}=bottle;
+  const {name , price, stock, ratings, img, id}=bottle;
 
 
   return (
@@ -15,11 +15,11 @@ export default function Bottle({bottle, handleAddToCart, handleBuyNow}) {
       <p>Ratings : {ratings}⭐</p>
 
       <div className="flex gap-5 mt-4">
-        <button onClick={handleAddToCart}  className="bg-blue-300 text-white px-4 py-2 rounded-md hover:bg-blue-400 transition">
+        <button onClick={()=>handleAddToCart(id)}  className="bg-blue-300 text-white px-4 py-2 rounded-md hover:bg-blue-400 transition">
         Add to cart
       </button>
 
-      <button onClick={handleBuyNow} className="bg-blue-400 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition">
+      <button onClick={()=>handleBuyNow(id)} className="bg-blue-400 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition">
        Buy Now
       </button>
       </div>
