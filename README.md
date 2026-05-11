@@ -20,6 +20,11 @@ I am focusing on JavaScript, React, and full-stack development.
 - React components & state
 - Data store local storage
 
+  ## last comment in this repo
+  -al_most done local storage but
+  -same problem in reloading 
+  
+
 -  ## ⚙️ Technologies Used
 - HTML
 - CSS / Tailwind CSS
